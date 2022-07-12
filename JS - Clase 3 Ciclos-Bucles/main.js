@@ -1,3 +1,4 @@
+
 let primeraPregunta = parseInt(prompt("Indica el año que viste tu primer Mundial de Futbol?"));
 let segundaPregunta = parseInt(prompt("En qué año estamos?"));
 
